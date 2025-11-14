@@ -4,9 +4,9 @@ import java.util.ArrayList;
 
 public class EstruturaDeRepeticao {
 	public static void main(String[] args) {
-		//listaDePalavras();
-		//forClassico();
-		//forPuro();
+		listaDePalavras();
+		forClassico();
+		forPuro();
 		inverter();
 	}
 
